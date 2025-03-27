@@ -1,0 +1,1 @@
+C:\Users\AquaS\OneDrive\Documents\CSE\ 310\ Applied\ Prog\ COMPFILE\Module\ 1\ -\ Rust\fallout_site_scraper\target\debug\fallout_site_scraper.exe: C:\Users\AquaS\OneDrive\Documents\CSE\ 310\ Applied\ Prog\ COMPFILE\Module\ 1\ -\ Rust\fallout_site_scraper\src\main.rs
